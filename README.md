@@ -1,4 +1,5 @@
 a Dracula Theme for NetNewsWire on MacOS.
+
 Count Dracula only functions in darkmode. 
 
 
