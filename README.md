@@ -1,6 +1,6 @@
-a Dracula Theme for NetNewsWire on MacOS.
+Dracula inspired Theme for NetNewsWire on MacOS.
 
-Count Dracula only functions in darkmode. 
+Dracula only functions in darkmode. 
 
 
 The theme uses the GentiumPlus font by https://software.sil.org/gentium/
